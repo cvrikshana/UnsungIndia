@@ -1,0 +1,11 @@
+# This is a text representation of how the Excel file should be structured
+# Create a file named 'data.xlsx' with the following columns:
+
+ImagePath | Title | Description
+--------- | ----- | -----------
+images/image1.jpg | The Forgotten Artisans of Kutch | Exploring the intricate handicrafts and the stories of artisans preserving centuries-old traditions in the remote villages of Kutch, Gujarat.
+images/image2.jpg | Living Bridges of Meghalaya | Discover the incredible living root bridges of Meghalaya, hand-shaped by the Khasi and Jaintia tribes over decades using the roots of rubber fig trees.
+images/image3.jpg | The Last Manuscript Keepers | Meet the families in Varanasi who have been safeguarding ancient Sanskrit manuscripts for generations, preserving knowledge that dates back thousands of years.
+
+# Note: Replace the sample data with your own content
+# Make sure to place your images in the 'images' folder with the correct filenames
